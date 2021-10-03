@@ -18,19 +18,20 @@ h1, h2 {
     font-family: Stick no bills, sans-serif;
     text-transform: uppercase;
     letter-spacing: 10px; 
-    color: grey;
+    color: rgb(206, 138, 11);
 }
 
 #logo {
     float: left;
     font-size: 300%;
+    margin-left: 2%;
 }
 
 /* navigation links */
 
 #menu {
     font-size: 110%;
-    letter-spacing: 10px;
+    letter-spacing: 8px;
 }
 
 #menu, #logo {
@@ -53,5 +54,16 @@ h1, h2 {
 }
 
 .active {
-  border-bottom: 2px solid orange;
+  border-bottom: 2px solid rgb(206, 138, 11);
+}
+
+/* main image */
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/main.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
