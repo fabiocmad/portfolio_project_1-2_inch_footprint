@@ -9,4 +9,19 @@
 body {
     font-family: Stick no bills, Roboto, sans-serif;
     font-weight: 300;
+    color: black;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Stick no bills, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px; 
+    color: grey;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
