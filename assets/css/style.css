@@ -24,7 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 300%;
-    margin-left: 2%;
+    margin-left: 30px;
 }
 
 /* navigation links */
@@ -89,4 +89,44 @@ h1, h2 {
     to{
         transform: scale(1.1);
     }
+}
+
+hr {
+    border-top: 1px solid orange;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#join-us-heading {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 40px;
+}
+
+#join-us {
+    width: 100%;
+    float: center;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#instagram-heading {
+    margin-left: 10px;
+    margin-top: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+div > p {
+    text-align: justify;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: Roboto;
+    width: 100%;
+}
+
+.middle-about-heading {
+    width: 40%;
+    margin: 0 auto;
 }
