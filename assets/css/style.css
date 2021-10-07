@@ -131,3 +131,14 @@ div > p {
     width: 40%;
     margin: 0 auto;
 }
+
+/* instagram walk times */
+
+#times {
+    background-image: url('../images/background-time.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    width: 100%;
+    overflow: hidden;
+}
