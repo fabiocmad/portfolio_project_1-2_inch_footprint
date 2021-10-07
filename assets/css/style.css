@@ -158,3 +158,8 @@ div > p {
 #times h2 {
     color: #fafafa;
 }
+
+#times h3 {
+    text-align: center;
+    margin: 25px;
+}
