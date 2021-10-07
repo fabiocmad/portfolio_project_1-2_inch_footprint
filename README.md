@@ -31,7 +31,7 @@ This site will help people to open their eyes to new ideas and a whole new world
 ## Credits
 ### Content
 ### Media
-Main image - https://free4kwallpapers.com/wallpaper-preview/fantasy/beautiful-sunset-path/g2pj/1024/768
+Background of MeetUp times - https://pixabay.com/photos/nature-waters-lake-island-3082832/
 
 
 ---
