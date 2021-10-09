@@ -14,6 +14,7 @@ This site will help people to open their eyes to new ideas and a whole new world
 
 [Sign Up of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/sign-up.png)
 
+
 ### Existing Features
 #### Navigation Bar
 #### Landing Page Image
