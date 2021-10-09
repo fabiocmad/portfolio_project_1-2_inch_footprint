@@ -6,6 +6,7 @@
     border: none;
 }
 
+
 body {
     font-family: Stick no bills, Roboto, sans-serif;
     font-weight: 300;
@@ -194,5 +195,18 @@ footer {
     list-style-type: none;
     padding: 1%;
     margin-top: none;
+}
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    max-width: 100%;
 }
 
