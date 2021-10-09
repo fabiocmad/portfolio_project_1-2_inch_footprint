@@ -163,3 +163,23 @@ div > p {
     text-align: center;
     margin: 25px;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 250%;
+    margin: 1%;
+    padding: 5%;
+    color:orange;
