@@ -10,6 +10,7 @@ body {
     font-family: Stick no bills, Roboto, sans-serif;
     font-weight: 300;
     color: black;
+    background-color: #fefbd9;
 }
 
 /* headings and logo */
@@ -17,7 +18,7 @@ body {
 h1, h2 {
     font-family: Stick no bills, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 10px; 
+    letter-spacing: 5px; 
     color: rgb(206, 138, 11);
 }
 
@@ -50,7 +51,7 @@ h1, h2 {
 }
 
 #menu a:hover {
-    color: lightsalmon;
+    color: #f0a04b;
 }
 
 .active {
@@ -93,7 +94,7 @@ h1, h2 {
 }
 
 hr {
-    border-top: 1px solid orange;
+    border-top: 1px solid #f0a04b;
     width: 100%;
     margin: 5px 0;
 }
@@ -161,7 +162,7 @@ div > p {
 
 #times h3 {
     text-align: center;
-    margin: 25px;
+    margin: 20px;
 }
 
 /* footer */
@@ -179,7 +180,19 @@ footer {
 }
 
 .social-media i {
-    font-size: 250%;
+    font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color:orange;
+    color: #f0a04b
+}
+
+/* copyrights and contact information */
+.rights {
+    height: 50px;
+    text-align: center;
+    margin: 0;
+    list-style-type: none;
+    padding: 1%;
+    margin-top: none;
+}
+
