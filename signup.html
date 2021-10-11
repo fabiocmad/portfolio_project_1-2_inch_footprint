@@ -18,10 +18,10 @@
         <nav id="menu">
             <ul>
                 <li>
-                    <a href="signup.html">Sign Up</a>
+                    <a href="signup.html" class="active">Sign Up</a>
                 </li>
                 <li>
-                    <a href="gallery.html" class="active">Gallery</a>
+                    <a href="gallery.html">Gallery</a>
                 </li>
                 <li>
                     <a href="index.html">Home</a>
@@ -31,21 +31,36 @@
             </ul>
         </nav>
     </header>
-   
-    <section id="photos">
-        <img src="assets/images/gal_beach.jpg" alt="Father and son at the beach">
-        <img src="assets/images/gal_bear.jpg" alt="Girl holding her Teddy bear on the forest">
-        <img src="assets/images/gal_glass.webp" alt="man sitting on a chair with picture taken trought a glass">
-        <img src="assets/images/gal_glider.jpg" alt="Two man jumping on gliders">
-        <img src="assets/images/gal_gold.jpg" alt="Man scaveging for gold">
-        <img src="assets/images/gal_kiss.jpg" alt="Couple kissing after the rain">
-        <img src="assets/images/gal_leaves.jpg" alt="Man swepping the floor full of leaves">
-        <img src="assets/images/gal_motobike.jpg" alt="Two man on a motorbike">
-        <img src="assets/images/gal_rock.jpg" alt="Father and son sitting on a rock">
-        <img src="assets/images/gal_swim.jpg" alt="Couple swimming close to a beach">
-        <img src="assets/images/gal_tree.jpg" alt="Tree reflection on a water puddle">
+    <section class="form">
+        <form method="post" action="" class="signup-form">
+            <h2>
+                Instagram Walk Sign Up!
+            </h2>  
+            <div>
+                <label for="fname">First Name</label>
+                <input id="fname" type="text" name="first_name" required>
+            </div>
+            <div>
+                <label for="lname">Last Name</label>
+                <input id="lname" type="text" name="last_name" required>
+            </div>
+            <div>
+                <label for="email">Email Address</label>
+                <input id="email" type="email" name="email_address" required>
+            </div>
+            <div>
+                <label for="green">Stephen's Green</label>
+                <input type=radio id="green" name="walk_preference" value="green" required>
+                
+                <label for="spire">Spire</label>
+                <input type="radio" id="spire" name="walk_preference" value="spire">
+                
+                <label for="phoenix">Phoenix Park</label>
+                <input type="radio" id="phoenix" name="walk_preference" value="phoenix">
+            </div>
+            <input id="submit" type="submit" value="SignUp!">
+        </form>
     </section>
-
     <footer>
         <ul class="social-media">
             <li>

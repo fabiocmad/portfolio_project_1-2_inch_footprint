@@ -304,5 +304,58 @@ footer {
     }
 }
 
+/* form section */
 
+/* Form */
 
+.form {
+    clear: both;
+    /* background:; */
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    background-image: url('../images/gal_motobike.jpg');
+    background-position: 10% 32%;
+}
+
+.signup-form {
+    height: 280px;
+    margin-top: 20%;
+    margin-left: 5%;
+    color: #fff;
+    /* background-color: #F0a04b; */
+    
+    max-width: 500px;
+    position: center;
+    padding: 15px;
+    border-radius: 0.5;
+}
+
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+    font-size: 25px;
+    position: center;
+    text-align: center;
+}
+
+.signup-form > div {
+    margin-top: 5px;
+    position: inherit;
+}
+
+.signup-form > div {
+    font-size: 25px;
+    position: inherit;
+    text-align: center;
+}
+
+#submit {
+    background-color: red;
+    border-radius: 12px;
+    border: 2px solid white;
+    width: 50%;
+    margin-left: 25%;
+    position: center;
+}
