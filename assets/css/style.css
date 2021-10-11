@@ -210,3 +210,32 @@ footer {
     max-width: 100%;
 }
 
+/* media queries */
+
+/* for large to medium screens from 1200px wide and down  */
+@media screen and (max-width: 1200px) {
+    #join-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+        clear: both;
+        padding: 0;
+    }
+
+    #middle-about-heading {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #instagram-heading {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
