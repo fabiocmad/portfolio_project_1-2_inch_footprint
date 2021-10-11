@@ -291,6 +291,17 @@ footer {
         text-align: center;
         padding: 0 20px;
     }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+/* for small mobile screen sizes */
+@media screen and (max-width: 700px) {
+    #photos {
+        column-count: 2;
+    }
 }
 
 
