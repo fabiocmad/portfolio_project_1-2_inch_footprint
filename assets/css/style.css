@@ -235,6 +235,19 @@ footer {
         padding: 0;
     }
 
+    #times > div h2 h3{
+        width: 80%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    #times > h3 {  /* Need to double check responsiviness for mobiles */
+        border: 0;
+        margin: 0;
+        letter-spacing: 0;
+    }
+
     hr {
         display: none;
     }
@@ -279,4 +292,6 @@ footer {
         padding: 0 20px;
     }
 }
+
+
 
