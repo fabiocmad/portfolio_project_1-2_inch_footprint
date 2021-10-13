@@ -318,34 +318,40 @@ footer {
 
 .signup-form {
     height: 280px;
-    margin-top: 20%;
+    margin-top: 0%;
     margin-left: 5%;
     color: #fff;
     max-width: 500px;
-    padding: 15px;
+    padding: 50px;
+    padding-top: 80px;
 }
 
 .signup-form > h2 {
     color: #fafafa;
     margin-bottom: 20px;
     font-size: 25px;
-    text-align: center;
+    text-align: left;
 }
 
 .signup-form > div {
     margin-top: 5px;
+    text-align: left;
 }
 
 .signup-form > div {
     font-size: 25px;
     position: inherit;
     text-align: center;
+    text-align: left;
 }
 
 #submit {
-    background-color: red;
-    border-radius: 12px;
+    background-color: #f0a04b;
+    border-radius: 25%;
     border: 2px solid white;
-    width: 50%;
-    margin-left: 25%;
+    width: 20%;
+    margin-left: 0;
+    text-align: center;
+    position: inherit;
+    margin-top: 10px;
 }
