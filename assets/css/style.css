@@ -325,6 +325,30 @@ footer {
     #times div {
         width: 100%;
     }
+
+    .form > .signup-form {
+        max-width: 40%;
+        max-height: 300px;
+        height: auto;
+    }
+
+    .form > .signup-form > div {
+        font-size: 15px;
+        position: inherit;
+        text-align: center;
+        text-align: left;
+    }
+
+    .form > .signup-form > #submit {
+        background-color: #f0a04b;
+        border-radius: 10px;
+        border: 2px solid white;
+        width: 40%;
+        margin-left: 0;
+        text-align: center;
+        position: inherit;
+        margin-top: 10px;
+    }
 }
 
 /* form section */
@@ -336,26 +360,27 @@ footer {
     /* background:; */
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 800px;
     width: 100%;
     background-image: url('../images/gal_motobike.jpg');
     background-position: 10% 32%;
 }
 
 .signup-form {
-    height: 280px;
-    margin-top: 0%;
+    background-color: rgb(10,10,10,0.3);
+    height: 300px;
     margin-left: 5%;
     color: #fff;
-    max-width: 500px;
-    padding: 50px;
-    padding-top: 80px;
+    max-width: 350px;
+    padding: 60px;
+    top: 40px;
+    position: relative;
 }
 
 .signup-form > h2 {
     color: #fafafa;
     margin-bottom: 20px;
-    font-size: 25px;
+    font-size: 23px;
     text-align: left;
 }
 
@@ -373,11 +398,18 @@ footer {
 
 #submit {
     background-color: #f0a04b;
-    border-radius: 25%;
+    border-radius: 10px;
     border: 2px solid white;
-    width: 20%;
+    width: 30%;
     margin-left: 0;
     text-align: center;
     position: inherit;
     margin-top: 10px;
+    height: 25px;
+}
+
+/* tagging input elements to use full width of div on sign up*/
+.form >  .signup-form > div > #fname, #lname, #email { 
+    width: 100%;
+    display: flex;
 }
