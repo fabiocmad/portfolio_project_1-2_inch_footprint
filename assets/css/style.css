@@ -130,7 +130,7 @@ div > p {
 }
 
 .middle-about-heading {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -375,6 +375,9 @@ footer {
     padding: 60px;
     top: 40px;
     position: relative;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
 }
 
 .signup-form > h2 {
