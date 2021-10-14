@@ -216,7 +216,7 @@ footer {
     #join-us {
         width: 65%;
         margin: 0 auto;
-        margin-bottom: 40px;
+        margin-bottom: 1rem;
         clear: both;
         padding: 0;
     }
@@ -277,8 +277,8 @@ footer {
 
     #join-us {
         width: 90%;
-        height: 1200px;
         margin: 0 auto;
+        margin-bottom: 1rem;
     }
 
     .middle-about-heading #instagram-heading h2 {
