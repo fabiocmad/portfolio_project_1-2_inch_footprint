@@ -299,6 +299,7 @@ footer {
         margin-right: 15px;
         margin-left: 18px;
     }
+
 }
 
 /* for small mobile screen sizes */
@@ -319,6 +320,10 @@ footer {
         width: 90%;
         height: auto;
         margin-bottom: 10px;
+    }
+
+    #times div {
+        width: 100%;
     }
 }
 
