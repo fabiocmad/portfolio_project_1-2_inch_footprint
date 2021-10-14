@@ -8,11 +8,11 @@ This site will help people to open their eyes to new ideas and a whole new world
 
 ## Features
 ### Wireframe
-[Home Page of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/home-page.png)
+[Home Page of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png)
 
-[Gallery of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/gallery.png)
+[Gallery of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/gallery.png)
 
-[Sign Up of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/sign-up.png)
+[Sign Up of the Website](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/sign-up.png)
 
 
 ### Existing Features
