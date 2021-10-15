@@ -47,6 +47,10 @@ The Footer includes social media links for 2-Inch-Footprint. Link will open on a
 ![The Footer Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_footer.png)
 
 ### The Gallery Page
+Gallery page shows user previous photos taken during the walks by the owner of the project. The official Instagram page link in on the footer but can also be found [here](https://www.instagram.com/2inchfootprint/?hl=en) for more images of the project.
+
+![Gallery Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_gallery.png)
+ 
 ### The Sign Up Page
 ### Features Left to be Implemented
 
@@ -56,17 +60,6 @@ The Footer includes social media links for 2-Inch-Footprint. Link will open on a
 [SignUp Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/sign-up.png)
 
 ### UX Design
-
-
-## Existing Features
-## Navigation Bar
-## Landing Page Image
-## Section
-## Meetup Times Section
-## Footer
-## Gallery
-## SignUp Page
-## Features left to implement
 
 # Testing
 ## Validator Testing
