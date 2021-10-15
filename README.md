@@ -9,6 +9,9 @@ This site will help people to open their eyes to new ideas and a whole new world
 
 **A live version on the website can be found** [here](https://fabiocmad.github.io/portfolio_project_1-2_inch_footprint)
 
+![Am I Responsive?]
+(https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/responsive.png)
+
 # Features
 ## Wireframe
 [Home Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png) /
