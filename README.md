@@ -42,7 +42,9 @@ The Times Section (and all the rest of the website too) was designed to attract 
 </p>
 
 ### The Footer Section
+The Footer includes social media links for 2-Inch-Footprint. Link will open on a new tab allowing easy navigation. It connects user to different platforms and build the community that the Project is all about.
 
+![The Footer Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_footer.png)
 
 ### The Gallery Page
 ### The Sign Up Page
