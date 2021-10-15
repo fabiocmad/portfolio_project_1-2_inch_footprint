@@ -137,7 +137,7 @@ The live link can be found here - https://fabiocmad.github.io/portfolio_project_
    <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/acessibility.png" alt="Acessibility"/>
 </p>
 
-# Credits
+# Content and Media Credits
 * https://learn.codeinstitute.net/dashboard - "Writing your readme.md file" / "Positioning and Hero Image lesson" / "Best Practices" / "UX Strategy Plane" / "Love Running Project" - Meet Up Times lesson to understand positioning of image on my project.
 * https://fonts.google.com/ - Google Fonts
 * https://fontawesome.com/ - Font Awesome
@@ -145,10 +145,7 @@ The live link can be found here - https://fabiocmad.github.io/portfolio_project_
 * https://pixabay.com/photos/nature-waters-lake-island-3082832/ - Background image of MeetUp times
 * https://developer.chrome.com/docs/devtools/ - Chrome Tools
 
-# Content
-
-
+# Acknolegments
+Would like to thank my Mentor Marcel, my colleagues on Slack that helped along the projects and all the community that constantly helps each other and as such we keep growing together. Very happy to have finished this website and here's to many more coming!
 
 ---
-
-Happy coding!
