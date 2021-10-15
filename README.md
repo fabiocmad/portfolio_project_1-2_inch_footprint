@@ -9,14 +9,26 @@ This site will help people to open their eyes to new ideas and a whole new world
 
 **A live version on the website can be found** [here](https://fabiocmad.github.io/portfolio_project_1-2_inch_footprint)
 
-![Am I Responsive?]
-(https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/responsive.png)
+![Am I Responsive?](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/responsive.png)
 
 # Features
+The website color pallete was carefully choosen. Peach/Orange color is excellent for communication, influences good manners and calms down. Which is the purpose of the website. To gather people with interest on photography, keen on exercising and Instagram walks, to build a sense of community that was highly affected during there Pandemic times.
+
+## Existing Features
+### The Navigation Bar
+### About Us
+### The Instagram Walk Times
+### The Footer Section
+### The Gallery Page
+### The Sign Up Page
+### Features Left to be Implemented
+
 ## Wireframe
 [Home Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png) /
 [Gallery Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/gallery.png) / 
 [SignUp Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/sign-up.png)
+
+### UX Design
 
 
 ## Existing Features
