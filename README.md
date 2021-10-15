@@ -138,9 +138,14 @@ The live link can be found here - https://fabiocmad.github.io/portfolio_project_
 </p>
 
 # Credits
+https://learn.codeinstitute.net/dashboard - "Writing your readme.md file" / "Positioning and Hero Image lesson" / "Best Practices" / "UX Strategy Plane" / "Love Running Project" - Meet Up Times lesson to understand positioning of image on my project.
+https://fonts.google.com/ - Google Fonts
+https://fontawesome.com/ - Font Awesome
+https://github.com/ - GitHub
+https://pixabay.com/photos/nature-waters-lake-island-3082832/ - Background image of MeetUp times
+
 # Content
-# Media
-Background of MeetUp times - https://pixabay.com/photos/nature-waters-lake-island-3082832/
+
 
 
 ---
