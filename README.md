@@ -117,6 +117,9 @@ No errors were returned when passing throught the official [HTML Validator](http
 ![HTML Validator](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/validator_html.png)
 
 * CSS
+No errors were returned when passing throught the official [CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
+![CSS Validator](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/validator_css.png)
 
 # Credits
 # Content
