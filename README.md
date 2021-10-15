@@ -23,7 +23,7 @@ The nav bar is included on all three pages. It had a 2-Inch Logo on the left han
 ### Hero Image
 Hero Image was added with a responsive effect that zooms in the image when user lands on the page. It add value for UX comsumption and a immersive experience.
 
-
+![Hero Image](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_hero-img.png)
 
 ### About Us
 ### The Instagram Walk Times
