@@ -11,6 +11,8 @@ This site will help people to open their eyes to new ideas and a whole new world
 
 ![Am I Responsive?](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/responsive.png)
 
+# Table of Contents
+
 # Features
 ## The Navigation Bar
 The nav bar is included on all three pages. It had a 2-Inch Logo on the left hand side, and to the right hand side it has a Home, Gallery and SignUp options for navigation between the pages. This section is handy not only to allow user to navigate between pages, but also to pass the confidence on UX by having a structured familiar regarless of the page the user is navigating.
@@ -143,6 +145,10 @@ The live link can be found here - https://fabiocmad.github.io/portfolio_project_
 * https://github.com/ - GitHub
 * https://pixabay.com/photos/nature-waters-lake-island-3082832/ - Background image of MeetUp times
 * https://developer.chrome.com/docs/devtools/ - Chrome Tools
+* https://learn.shayhowe.com/html-css/writing-your-best-code/ - Code practices
+* https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f - Best practices
+* https://google.github.io/styleguide/htmlcssguide.html#General - Style rule guides
+* https://guides.github.com/features/mastering-markdown/ - Mastering markdown language
 
 # Acknolegments
 Would like to thank my Mentor Marcel, my colleagues on Slack that helped along the projects and all the community that constantly helps each other and as such we keep growing together. Very happy to have finished this website and here's to many more coming!
