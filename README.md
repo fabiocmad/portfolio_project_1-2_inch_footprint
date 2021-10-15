@@ -31,6 +31,14 @@ This section tells the history of the project and how everything started. What i
 ![About Us](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_about-us.png)
 
 ### The Instagram Walk Times
+In this section users can see the dates, times and location for three weekly meetings times if they want to signup and participate. As meeting are always at the same times of the week, no changes to this section will need to be made further ahead.
+
+![Times Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_times.png)
+
+The Times Section (and all the rest of the website too) was designed to attract and give the best user experience possible, so for smaller screens, a responsive design will take effect and the layout for this section will change to fit the device.
+
+
+
 ### The Footer Section
 ### The Gallery Page
 ### The Sign Up Page
