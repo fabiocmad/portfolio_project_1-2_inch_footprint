@@ -132,6 +132,10 @@ Please see below the process of deployment for this website:
 The live link can be found here - https://fabiocmad.github.io/portfolio_project_1-2_inch_footprint/
 
 
+# Acessibility
+
+![Acessibility](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/acessibility.png)
+
 
 # Credits
 # Content
