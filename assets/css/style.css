@@ -157,8 +157,10 @@ div > p {
     box-sizing: border-box;
 }
 
-#times h2 {
+#times p {
     color: #fafafa;
+    text-align: center;
+    font-size: 30px;
 }
 
 #times h3 {
