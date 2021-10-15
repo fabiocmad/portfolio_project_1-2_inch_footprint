@@ -105,6 +105,11 @@ Click on Social Media Twitter opens a new Twitter tab Page | Pass
 Click on Social Media YouTube opens a new YouTube tab Page | Pass
 Click on Social Media Instagram opens a new Instagram tab Page | Pass
 
+## Bugs
+While the layout of the gallery reached the expected result, I would like to change the bottom of the page to make sure all images are aligned and responsive, without getting pixelated or loosing focus. I intend to tackle this in the future to avoid this behaviour as I believe website will be more elegant and pleasant for the user.
+
+
+
 ## Validator Testing
 ## Unfixed Bugs
 
