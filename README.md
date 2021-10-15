@@ -12,6 +12,11 @@ This site will help people to open their eyes to new ideas and a whole new world
 ![Am I Responsive?](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/responsive.png)
 
 # Table of Contents
+On the top left of this GitHub readme file, we can find the Table of Contents for quick search on topics within this document.
+
+<p align="center">
+   <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/table_contents.png" alt="Table of Contents"/>
+</p>
 
 # Features
 ## The Navigation Bar
