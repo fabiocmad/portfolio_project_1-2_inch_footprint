@@ -52,6 +52,10 @@ Gallery page shows user previous photos taken during the walks by the owner of t
 ![Gallery Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_gallery.png)
  
 ### The Sign Up Page
+Here the user is able to sign up to join the community, receive news about the meet ups (to be implemented) and choose which one of the meet ups they would like to join and participate. Name, Last name, email and location of choice will be requested on this page.
+
+![Sign Up Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_sign-up.png)
+
 ### Features Left to be Implemented
 
 ## Wireframe
