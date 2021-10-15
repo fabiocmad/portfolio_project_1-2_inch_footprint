@@ -133,9 +133,9 @@ The live link can be found here - https://fabiocmad.github.io/portfolio_project_
 
 
 # Acessibility
-
-![Acessibility](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/acessibility.png)
-
+<p align="center">
+   <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/acessibility.png" alt="Acessibility"/>
+</p>
 
 # Credits
 # Content
