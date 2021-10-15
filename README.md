@@ -112,6 +112,10 @@ While the layout of the gallery reached the expected result, I would like to cha
 
 ## Validator Testing
 * HTML
+No errors were returned when passing throught the official [HTML Validator](https://validator.w3.org/nu). A warning was flagged regarding heading for a section that I used for my main-hero image.
+
+![HTML Validator]()
+
 * CSS
 
 # Credits
