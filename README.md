@@ -96,6 +96,7 @@ Gallery Page adapts and change number of columns according to screen size  | Pas
 Sign Up Page adapts and change according to screen size  | Pass
 Home Page adapts and change according to screen size  | Pass
 Headers and Paragraphs adapts and respond according to screen size  | Pass
+Sign Up test and credentials are sent to "https://formdump.codeinstitute.net/" | Pass
 
 Testing - Header on Several Screen Sizes | Result
 ------------ | -------------
