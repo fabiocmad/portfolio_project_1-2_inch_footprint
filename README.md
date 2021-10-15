@@ -154,6 +154,7 @@ The live link can be found here - https://fabiocmad.github.io/portfolio_project_
 * https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f - Best practices
 * https://google.github.io/styleguide/htmlcssguide.html#General - Style rule guides
 * https://guides.github.com/features/mastering-markdown/ - Mastering markdown language
+* http://ami.responsivedesign.is/# - Am I responsive
 
 # Acknolegments
 Would like to thank my Mentor Marcel, my colleagues on Slack that helped along the projects and all the community that constantly helps each other and as such we keep growing together. Very happy to have finished this website and here's to many more coming!
