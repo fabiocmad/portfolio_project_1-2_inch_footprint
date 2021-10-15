@@ -60,7 +60,7 @@ Here the user is able to sign up to join the community, receive news about the m
 
 ![Sign Up Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_sign-up.png)
 
-## Features Left to be Implemented
+## Ideas of Features to be Implemented
 * A map to pin point the location of the user for possible new meeting points.
 * A phone filed on signup for a Whatsup group community.
 * A contact us page with a form to be submitted directly to the owner of the business
