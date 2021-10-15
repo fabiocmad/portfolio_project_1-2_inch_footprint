@@ -7,6 +7,8 @@ Out of the love for photography and the extra time spent at home during Covid ti
 
 This site will help people to open their eyes to new ideas and a whole new world that sometimes pass by us in the rush of our daily routine. The site will be usefull to photographers that might want to connect and share their own perspective and worlds trought their own lens, by building a community.
 
+**A live version on the website can be found** [here](https://fabiocmad.github.io/portfolio_project_1-2_inch_footprint)
+
 # Features
 ## Wireframe
 [Home Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png) /
