@@ -57,11 +57,27 @@ Here the user is able to sign up to join the community, receive news about the m
 ![Sign Up Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_sign-up.png)
 
 ### Features Left to be Implemented
+* A map to pin point the location of the user for possible new meeting points.
+* A phone filed on signup for a Whatsup group community.
+* A contact us page with a form to be submitted directly to the owner of the business
 
 ## Wireframe
-[Home Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png) /
-[Gallery Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/gallery.png) / 
-[SignUp Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/sign-up.png)
+### Home Page
+First idea behind the home page. I decided to change the layout of the copyrights for better balance of elements on the page.
+![Home Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png)
+
+### Gallery Page
+Was able to achieve the first idea on the wireframe. I am not happy with the fact that pictures are not aligned on the bottom. Due to time limit, I would continue working on the layout of the gallery to theres no gaps between images and the bottom between them is aligned.
+![Gallery Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/gallery.png)
+
+### Sign Up Page
+I was able to keep layout close to the original idea. Decided to move the signup form to the left as the image on desktop complements the position of the form.
+![SignUp Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/sign-up.png)
+
+## Color Palette
+<p align="center">
+   <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/colors.png" alt="Color Palette"/>
+</p>
 
 ### UX Design
 
