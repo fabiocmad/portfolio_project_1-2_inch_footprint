@@ -37,9 +37,13 @@ In this section users can see the dates, times and location for three weekly mee
 
 The Times Section (and all the rest of the website too) was designed to attract and give the best user experience possible, so for smaller screens, a responsive design will take effect and the layout for this section will change to fit the device.
 
-
+<p align="center">
+   <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_times-phone.png" alt="Times Section for Mobile"/>
+</p>
 
 ### The Footer Section
+
+
 ### The Gallery Page
 ### The Sign Up Page
 ### Features Left to be Implemented
