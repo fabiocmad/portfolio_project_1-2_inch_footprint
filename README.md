@@ -25,7 +25,11 @@ Hero Image was added with a responsive effect that zooms in the image when user 
 
 ![Hero Image](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_hero-img.png)
 
-### About Us
+### About Us Section
+This section tells the history of the project and how everything started. What is the main idea behind it and what will be the expectation and benefits of joining the Instagram walks and signing up for the kind of content related to photography and nature. Hopefully user will relate to the personal history of the project and be encourage to participate on next Instagram Walks.
+
+![About Us](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_about-us.png)
+
 ### The Instagram Walk Times
 ### The Footer Section
 ### The Gallery Page
