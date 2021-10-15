@@ -12,25 +12,22 @@ This site will help people to open their eyes to new ideas and a whole new world
 ![Am I Responsive?](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/responsive.png)
 
 # Features
-The website color pallete was carefully choosen. Peach/Orange color is excellent for communication, influences good manners and calms down. Which is the purpose of the website. To gather people with interest on photography, keen on exercising and Instagram walks, to build a sense of community that was highly affected during there Pandemic times.
-
-## Existing Features
-### The Navigation Bar
+## The Navigation Bar
 The nav bar is included on all three pages. It had a 2-Inch Logo on the left hand side, and to the right hand side it has a Home, Gallery and SignUp options for navigation between the pages. This section is handy not only to allow user to navigate between pages, but also to pass the confidence on UX by having a structured familiar regarless of the page the user is navigating.
 
 ![Navigation Bar](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_nav-bar.png)
 
-### Hero Image
+## Hero Image
 Hero Image was added with a responsive effect that zooms in the image when user lands on the page. It add value for UX comsumption and a immersive experience.
 
 ![Hero Image](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_hero-img.png)
 
-### About Us Section
+## About Us Section
 This section tells the history of the project and how everything started. What is the main idea behind it and what will be the expectation and benefits of joining the Instagram walks and signing up for the kind of content related to photography and nature. Hopefully user will relate to the personal history of the project and be encourage to participate on next Instagram Walks.
 
 ![About Us](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_about-us.png)
 
-### The Instagram Walk Times
+## The Instagram Walk Times
 In this section users can see the dates, times and location for three weekly meetings times if they want to signup and participate. As meeting are always at the same times of the week, no changes to this section will need to be made further ahead.
 
 ![Times Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_times.png)
@@ -41,40 +38,42 @@ The Times Section (and all the rest of the website too) was designed to attract 
    <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_times-phone.png" alt="Times Section for Mobile"/>
 </p>
 
-### The Footer Section
+## The Footer Section
 The Footer includes social media links for 2-Inch-Footprint. Link will open on a new tab allowing easy navigation. It connects user to different platforms and build the community that the Project is all about.
 
 ![The Footer Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_footer.png)
 
-### The Gallery Page
+## The Gallery Page
 Gallery page shows user previous photos taken during the walks by the owner of the project. The official Instagram page link in on the footer but can also be found [here](https://www.instagram.com/2inchfootprint/?hl=en) for more images of the project.
 
 ![Gallery Section](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_gallery.png)
  
-### The Sign Up Page
+## The Sign Up Page
 Here the user is able to sign up to join the community, receive news about the meet ups (to be implemented) and choose which one of the meet ups they would like to join and participate. Name, Last name, email and location of choice will be requested on this page.
 
 ![Sign Up Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_sign-up.png)
 
-### Features Left to be Implemented
+## Features Left to be Implemented
 * A map to pin point the location of the user for possible new meeting points.
 * A phone filed on signup for a Whatsup group community.
 * A contact us page with a form to be submitted directly to the owner of the business
 
-## Wireframe
-### Home Page
+# Wireframe
+## Home Page
 First idea behind the home page. I decided to change the layout of the copyrights for better balance of elements on the page.
 ![Home Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/home-page.png)
 
-### Gallery Page
+## Gallery Page
 Was able to achieve the first idea on the wireframe. I am not happy with the fact that pictures are not aligned on the bottom. Due to time limit, I would continue working on the layout of the gallery to theres no gaps between images and the bottom between them is aligned.
 ![Gallery Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/gallery.png)
 
-### Sign Up Page
+## Sign Up Page
 I was able to keep layout close to the original idea. Decided to move the signup form to the left as the image on desktop complements the position of the form.
 ![SignUp Page](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/sign-up.png)
 
-## Color Palette
+# Color Palette
+The website color pallete was carefully choosen. Peach/Orange color is excellent for communication, influences good manners and calms down. Which is the purpose of the website. To gather people with interest on photography, keen on exercising and Instagram walks, to build a sense of community that was highly affected during there Pandemic times.
+
 <p align="center">
    <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/colors.png" alt="Color Palette"/>
 </p>
