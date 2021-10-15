@@ -111,15 +111,27 @@ While the layout of the gallery reached the expected result, I would like to cha
 ![Aligment](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_aligment.png)
 
 ## Validator Testing
-* HTML
-No errors were returned when passing throught the official [HTML Validator](https://validator.w3.org/nu). A warning was flagged regarding heading for a section that I used for my main-hero image.
+* HTML - No errors were returned when passing throught the official [HTML Validator](https://validator.w3.org/nu). A warning was flagged regarding heading for a section that I used for my main-hero image.
 
 ![HTML Validator](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/validator_html.png)
 
-* CSS
-No errors were returned when passing throught the official [CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+* CSS - No errors were returned when passing throught the official [CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
 ![CSS Validator](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/validator_css.png)
+
+# Deployment
+Please see below the process of deployment for this website:
+
+- The site was deployed to GitHub pages
+   - In the GitHub repository, navigated to the Settings tab
+   - From the source section drop-down menu, selected the Master Branch
+   - Once the master branch has been selected, the link for the page and a green sign that the site was deployed was shown
+
+![GitHub Pages](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/validator/github_page.png)
+
+The live link can be found here - https://fabiocmad.github.io/portfolio_project_1-2_inch_footprint/
+
+
 
 # Credits
 # Content
