@@ -79,9 +79,32 @@ I was able to keep layout close to the original idea. Decided to move the signup
    <img src="https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/wireframes/colors.png" alt="Color Palette"/>
 </p>
 
-### UX Design
-
 # Testing
+A series of testings we done to ensure that the user experience will be up to standards and provide a overall great experience, with no broken links nor bugs. The tests and results were the following:
+
+
+Testing - Responsiveness | Result
+------------ | -------------
+Click on header logo brings refreshes pages for hero image effect | Pass
+Gallery Page adapts and change number of columns according to screen size  | Pass
+Sign Up Page adapts and change according to screen size  | Pass
+Home Page adapts and change according to screen size  | Pass
+Headers and Paragraphs adapts and respond according to screen size  | Pass
+
+Testing - Header on Several Screen Sizes | Result
+------------ | -------------
+Click on header logo brings refreshes or goes to Home Page | Pass
+Click on header Home button brings user to Home Page  | Pass
+Click on header Gallery button brings user to Gallery Page  | Pass
+Click on header SignUp button brings user to Sign Up Page  | Pass
+
+Testing - Footer | Result
+------------ | -------------
+Click on Social Media Facebook opens a new Facebook tab Page | Pass
+Click on Social Media Twitter opens a new Twitter tab Page | Pass
+Click on Social Media YouTube opens a new YouTube tab Page | Pass
+Click on Social Media Instagram opens a new Instagram tab Page | Pass
+
 ## Validator Testing
 ## Unfixed Bugs
 
