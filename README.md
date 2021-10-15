@@ -16,6 +16,10 @@ The website color pallete was carefully choosen. Peach/Orange color is excellent
 
 ## Existing Features
 ### The Navigation Bar
+The nav bar is included on all three pages. It had a 2-Inch Logo on the left hand side, and to the right hand side it has a Home, Gallery and SignUp options for navigation between the pages. This section is handy not only to allow user to navigate between pages, but also to pass the confidence on UX by having a structured familiar regarless of the page the user is navigating.
+
+![Navigation Bar](https://github.com/fabiocmad/portfolio_project_1-2_inch_footprint/blob/main/assets/images/features/feat_nav-bar.png)
+
 ### About Us
 ### The Instagram Walk Times
 ### The Footer Section
